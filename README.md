@@ -9,7 +9,7 @@
 ![](https://komarev.com/ghpvc/?username=PrashanthaTP&color=blue)
 [![HitCount](http://hits.dwyl.com/PrashanthaTP/PrashanthaTP.svg)](http://hits.dwyl.com/PrashanthaTP/PrashanthaTP)
 
-I'm a Electronics and Communication Engineering Student at SJCE Mysuru, currently in pre-final year! 🤓
+I'm currently studying Electronics and Communication Engineering at SJCE Mysuru, currently in pre-final year! 🤓
 
 - 🔭 I’m currently working on becoming master of something 
 - 🤔 I’m looking for help in learning about AI, Web Dev and JavaScript 
