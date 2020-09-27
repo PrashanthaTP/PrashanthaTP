@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
-**PrashanthaTP/PrashanthaTP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PrashanthaTP/PrashanthaTP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-<h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-byte" alt="raghav-byte" /> </p>
+<h2 align="Left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
+![](https://komarev.com/ghpvc/?username=PrashanthaTP&color=blue)
 [![HitCount](http://hits.dwyl.com/PrashanthaTP/PrashanthaTP.svg)](http://hits.dwyl.com/PrashanthaTP/PrashanthaTP)
 
 I'm a Electronics and Communication Engineering Student at SJCE Mysuru, currently in pre-final year! 🤓
