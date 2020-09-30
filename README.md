@@ -12,7 +12,7 @@
 I'm currently studying Electronics and Communication Engineering at SJCE Mysuru, currently in pre-final year! 🤓
 
 - 🔭 I’m currently working on becoming master of something 
-- 🤔 I’m looking for help in learning about AI, Web Dev and JavaScript 
+- 🤔 I’m looking for help in learning about AI, Web Development
 
 - 📫 How to reach me:     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashantha-t-p-2866731aa/)](https://www.linkedin.com/in/prashantha-t-p-2866731aa/) 
 
