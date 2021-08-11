@@ -14,7 +14,7 @@
 ECE graduate from SJCE, Mysuru! 🤓
 
 - 🔭 I’m currently working on becoming master of something 
-- <!--
+<!--
 - 🤔 I’m looking for help in learning about AI, Web Development
 -->
 - 🚀 learning to program "stuff"
