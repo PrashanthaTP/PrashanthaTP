@@ -7,7 +7,9 @@
 <h2 align="Left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 ![](https://komarev.com/ghpvc/?username=PrashanthaTP&color=blue)
+<!--
 [![HitCount](http://hits.dwyl.com/PrashanthaTP/PrashanthaTP.svg)](http://hits.dwyl.com/PrashanthaTP/PrashanthaTP)
+-->
 
 I'm currently studying Electronics and Communication Engineering at SJCE Mysuru, currently in final year! 🤓
 
