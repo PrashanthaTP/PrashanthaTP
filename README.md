@@ -18,9 +18,9 @@ ECE graduate from SJCE, Mysuru! 🤓
 
 - 📫 How to reach me:     [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prashantha-t-p-2866731aa/)](https://www.linkedin.com/in/prashantha-t-p-2866731aa/) 
 
-
+<!--
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
-
+-->
 ### Some stats about Prashantha T P
 <img alt="Prashanth TP's github stats" src="https://github-readme-stats.vercel.app/api?username=PrashanthaTP&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
