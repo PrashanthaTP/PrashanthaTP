@@ -11,7 +11,7 @@
 [![HitCount](http://hits.dwyl.com/PrashanthaTP/PrashanthaTP.svg)](http://hits.dwyl.com/PrashanthaTP/PrashanthaTP)
 -->
 
-I'm currently studying Electronics and Communication Engineering at SJCE Mysuru, currently in final year! 🤓
+ECE graduate from SJCE, Mysuru! 🤓
 
 - 🔭 I’m currently working on becoming master of something 
 - 🤔 I’m looking for help in learning about AI, Web Development
