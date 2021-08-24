@@ -24,7 +24,14 @@ ECE graduate from SJCE, Mysuru! 🤓
 <!--
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 -->
-### Some stats about Prashantha T P
-<img alt="Prashanth TP's github stats" src="https://github-readme-stats.vercel.app/api?username=PrashanthaTP&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
+### Some stats 
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prashanthatp&show_icons=true&theme=dark" />
+<!-- </a> -->
+
+<!-- <a href="https://github.com/prashanthatp/prashanthatp"> -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthatp&layout=compact&theme=dark" />
+<!-- </a> -->
 
 
