@@ -27,11 +27,11 @@ ECE graduate from SJCE, Mysuru! 🤓
 ### Some stats 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api??username=prashanthatp&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prashanthatp&show_icons=true&theme=dark" />
 <!-- </a> -->
 
 <!-- <a href="https://github.com/prashanthatp/prashanthatp"> -->
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?/top-langs/?username=prashanthatp&layout=compact&theme=dark" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prashanthatp&layout=compact&theme=dark" />
 <!-- </a> -->
 
 
