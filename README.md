@@ -45,11 +45,11 @@ ECE graduate from SJCE, Mysuru! 🤓
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/prashanthatp"><img src="https://github-readme-stats.vercel.app/api?username=prashanthatp&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="prashanthatp's GitHub stats" /></a>
-<a href="http://www.github.com/prashanthatp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthatp&theme=vue-dark&hide_border=true" alt="prashantha's streak info"/></a>
+<a href="http://www.github.com/prashanthatp"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/PrashanthaTP?theme=dark" alt="prashanthatp's GitHub stats" /></a>
+
 
 <!--
 <a href="http://www.github.com/prashanthatp"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=prashanthatp&bg_color=0f172a&color=ffffff&line=10b981&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthatp&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthatp&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+<a href="http://www.github.com/prashanthatp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prashanthatp&theme=vue-dark&hide_border=true" alt="prashantha's streak info"/></a>
